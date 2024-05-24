@@ -52,8 +52,13 @@ Histograms displaying the frequency of prediction errors for each model, providi
 
 Actual vs Predicted Scatter Plot:
 Scatter plots illustrating the relationship between actual prices and predicted prices, highlighting the models' prediction accuracy.
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%203.png)
+
 Learning Curves:
 Demonstrates the models' performance as the training set size increases, providing insights into the models' learning behavior and potential overfitting/underfitting.
 This comprehensive analysis showcases the application of machine learning techniques to financial data, providing valuable insights into stock price prediction and model performance comparison.
+
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%204.png)
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%205.png)
 
 
