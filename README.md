@@ -44,6 +44,7 @@ Visualization
 
 Actual vs Predicted Prices:
 Shows a visual comparison between the actual closing prices and the predicted prices by both KNN and SVM models.
+
 ![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png)
 
 Distribution of Prediction Errors:
