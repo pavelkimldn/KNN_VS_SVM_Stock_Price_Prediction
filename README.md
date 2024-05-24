@@ -3,6 +3,9 @@
 
 The purpose of this project is to compare the performance of K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models in predicting stock prices. Specifically, this analysis focuses on predicting the closing prices of Apple Inc. (AAPL) using historical stock price data from 2015 to 2020.
 
+
+K-Nearest Neighbors (KNN) is a simple, non-parametric method that predicts based on the average value of the nearest neighbors, useful for capturing local trends in volatile markets. Support Vector Machine (SVM), a versatile model, performs both linear and non-linear regression, finding the best-fit hyperplane and handling high-dimensional data effectively to avoid overfitting. Comparing KNN and SVM helps evaluate predictive performance, understand model strengths and weaknesses, and ensure the best fit for financial data analysis.
+
 **Methodology**
 
 *Data Preprocessing*
