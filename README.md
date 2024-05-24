@@ -1,5 +1,6 @@
 # KNN_VS_SVM_Stock_Price_Prediction
 **Purpose**
+
 The purpose of this project is to compare the performance of K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) models in predicting stock prices. Specifically, this analysis focuses on predicting the closing prices of Apple Inc. (AAPL) using historical stock price data from 2015 to 2020.
 
 **Methodology**
