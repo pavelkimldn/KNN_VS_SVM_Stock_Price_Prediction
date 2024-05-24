@@ -44,13 +44,16 @@ Visualization
 
 Actual vs Predicted Prices:
 Shows a visual comparison between the actual closing prices and the predicted prices by both KNN and SVM models.
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png)
+
 Distribution of Prediction Errors:
 Histograms displaying the frequency of prediction errors for each model, providing insight into the distribution and magnitude of the errors.
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%202.png)
+
 Actual vs Predicted Scatter Plot:
 Scatter plots illustrating the relationship between actual prices and predicted prices, highlighting the models' prediction accuracy.
 Learning Curves:
 Demonstrates the models' performance as the training set size increases, providing insights into the models' learning behavior and potential overfitting/underfitting.
 This comprehensive analysis showcases the application of machine learning techniques to financial data, providing valuable insights into stock price prediction and model performance comparison.
 
-![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png)
 
