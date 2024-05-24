@@ -52,7 +52,5 @@ Learning Curves:
 Demonstrates the models' performance as the training set size increases, providing insights into the models' learning behavior and potential overfitting/underfitting.
 This comprehensive analysis showcases the application of machine learning techniques to financial data, providing valuable insights into stock price prediction and model performance comparison.
 
-https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png
-
-![github]([/images/icon.png](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png)
+![github](https://github.com/pavelkimldn/KNN_VS_SVM_Stock_Price_Prediction/blob/main/Picture%201.png)
 
