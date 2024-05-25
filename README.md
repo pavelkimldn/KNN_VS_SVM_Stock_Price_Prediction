@@ -37,11 +37,13 @@ The results of the models' performance are as follows:
 *Mean Squared Error (MSE)*
 
 KNN: 9.70
+
 SVM: 1.43
 
 *Cross-Validation MSE*
 
 KNN: 32.23
+
 SVM: 1.64
 
 These results indicate that the SVM model significantly outperformed the KNN model in predicting the closing prices of Apple Inc. The lower MSE values for SVM (1.43 for test set and 1.64 for cross-validation) suggest that it provides more accurate predictions and generalizes better to unseen data compared to KNN (MSE of 9.70 for test set and 32.23 for cross-validation). This implies that SVM is more effective in capturing the underlying patterns and trends in the stock price data, making it a more reliable choice for financial forecasting. These findings are crucial for investors and financial analysts as accurate stock price predictions can inform better investment decisions and risk management strategies.
