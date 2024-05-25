@@ -31,6 +31,7 @@ Plotted scatter plots comparing actual prices with predicted prices.
 Generated learning curves for both models to illustrate their performance as the training size increases.
 
 **Findings**
+
 The results of the models' performance are as follows:
 
 *Mean Squared Error (MSE)*
